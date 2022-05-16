@@ -23,7 +23,7 @@ int main()
 
             if (a == 0)
             {
-                cout << "0 em qualquer lugar é zero! IMBECIL!" << endl;
+                cout << "0 em qualquer lugar Ã© zero! IMBECIL!" << endl;
             }
             else
             {
@@ -46,7 +46,7 @@ int main()
 
             if (p == 0)
             {
-                cout << "0 em qualquer lugar é zero! IMBECIL!" << endl;
+                cout << "0 em qualquer lugar Ã© zero! IMBECIL!" << endl;
             }
             else
             {
@@ -69,7 +69,7 @@ int main()
 
             if (q == 0)
             {
-                cout << "0 em qualquer lugar é zero! IMBECIL!" << endl;
+                cout << "0 em qualquer lugar Ã© zero! IMBECIL!" << endl;
             }
             else
             {
@@ -92,7 +92,7 @@ int main()
 
             if (k == 0)
             {
-                cout << "0 em qualquer lugar é zero! IMBECIL!" << endl;
+                cout << "0 em qualquer lugar Ã© zero! IMBECIL!" << endl;
             }
             else
             {
@@ -115,7 +115,7 @@ int main()
 
             if (rs == 0)
             {
-                cout << "0 em qualquer lugar é zero! IMBECIL!" << endl;
+                cout << "0 em qualquer lugar Ã© zero! IMBECIL!" << endl;
             }
             else
             {
